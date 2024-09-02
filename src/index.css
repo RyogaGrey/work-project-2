@@ -1,0 +1,40 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Roboto', 'Calibri',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+/*html[data-theme="dark"] {*/
+/*  --button-text-color: #FFFFFF;*/
+/*  --button-backgrounnd-color: #CC0000;*/
+/*  --button-outlined-border-color: #3D3935;*/
+
+/*  --input-text-color: #3D3935;*/
+/*  --input-placeholder-text-color: #979FAD;*/
+/*  --input-border-color: #525E70;*/
+
+/*  --background-color: #3D3935;*/
+/*  --header-background-color: #7B868C;*/
+/*  --header-text-color: #FFFFFF;*/
+/*}*/
+
+/*html[data-theme="light"] {*/
+/*  --button-text-color: #FFFFFF;*/
+/*  --button-backgrounnd-color: #CC0000;*/
+/*  --button-outlined-border-color: #3D3935;*/
+
+/*  --input-text-color: #3D3935;*/
+/*  --input-placeholder-text-color: #979FAD;*/
+/*  --input-border-color: #525E70;*/
+
+/*  --background-color: #FFFFFF;*/
+/*  --header-background-color: #3D3935;*/
+/*  --header-text-color: #FFFFFF;*/
+/*}*/

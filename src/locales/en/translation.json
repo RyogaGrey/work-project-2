@@ -1,0 +1,10 @@
+{
+  "navBarTypography": "Company Name",
+  "firstNavBarButtons": ["Table", "Analytics", "Dashboard", "Drilling", "Settings", "Large Component", "Parse"],
+  "secondNavBarButtons": ["Profile"],
+  "changeThemeSwitch": "Change Theme",
+  "buttonReset": "Reset",
+  "buttonResetSorting": "Reset Sorting",
+  "inputPlaceholder": "Filter Value",
+  "tableHeadNames": ["Name", "Email", "Status", "Number", "Date"]
+}

@@ -1,0 +1,10 @@
+{
+  "navBarTypography": "Компания с названием",
+  "firstNavBarButtons": ["Таблица", "Аналитика", "Дашборд", "Бурение", "Настройки", "Большой компонент", "Парсинг с сайта"],
+  "secondNavBarButtons": ["Профиль"],
+  "changeThemeSwitch": "Сменить тему",
+  "buttonReset": "Сбросить",
+  "buttonResetSorting": "Сбросить сортировку",
+  "inputPlaceholder": "Значение для фильтра",
+  "tableHeadNames": ["Имя", "Почта", "Статус", "Число", "Дата"]
+}
